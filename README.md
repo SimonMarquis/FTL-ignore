@@ -29,6 +29,7 @@
     > 416 Requested range not satisfiable
     Request range not satisfiable
     ```
+    ![](./art/ignore-test-method.png)
 
 - ❌ `:lib-ignore-test-class:ftlDeviceDebugAndroidTest` (`matrix-36pt5ardrhhy6`)
     ```
@@ -43,3 +44,4 @@
     > 416 Requested range not satisfiable
     Request range not satisfiable
     ```
+    ![](./art/ignore-test-class.png)
